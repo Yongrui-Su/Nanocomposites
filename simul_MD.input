@@ -1,0 +1,27 @@
+1.5        /* length of box in dimension 1 the box */
+1.5         /* length of box in dimension 2 the box */
+1.5         /* length of box in dimension 3 the box*/
+32	    /* degree of polymerization for atom1 */
+0     /* degree of polymerization for atom2 */
+1.15625  /* chi01 */
+0       /* lambda0 */
+0      /* lambda1 */
+3085         /* density */
+1.15625       /* kappaN */
+320      /*controlling the imcompatibility inside nanoparticle core */
+0.05      /*decaying distance for hardcore
+100000000           /*total time*/
+0.0002         /*time step*/
+0.0	//volume fraction of nanoparticles
+0.18    //radius of hard core
+0.25             //radius of nanoparticles   
+12                 //discretization in the soft sphere nanoparticle           
+50.0		   //friction coefficient of nanoparticles
+00.00	//flow speed
+200	 //number of interval for generating histogram of g(r)
+1000                //number of interval for sampling
+150                //number of interval for trajectory sampling
+0.02		   //ddx
+160.0	      //fugacity
+1.0	      //strength of the slip-spring
+0.5	      //freq

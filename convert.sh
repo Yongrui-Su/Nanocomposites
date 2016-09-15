@@ -1,0 +1,12 @@
+mv config.datbackup config.dat
+mv Gxz_stress.datbackup Gxz_stress.dat
+mv msd.datbackup msd.dat
+mv phix.datbackup phix.dat
+mv phiz.datbackup phiz.dat
+mv sslink.datbackup sslink.dat
+mv Gxy_stress.datbackup Gxy_stress.dat
+mv Gyz_stress.datbackup  Gyz_stress.dat
+mv nano.datbackup nano.dat
+mv phiy.datbackup phiy.dat
+mv rdf.datbackup rdf.dat
+mv  stress.datbackup  stress.dat
